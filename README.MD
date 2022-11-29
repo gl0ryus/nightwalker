@@ -1,3 +1,6 @@
+Fixed scrollbar to work on firefox (Thank you BP)
+Changed colors to be world of warcraft themed.
+
 # A Dark but not black qBittorrent WebUI 
 **_A darker theme for qBittorrent WebUI_ (made with the help of the Walkerservers community)**
 
